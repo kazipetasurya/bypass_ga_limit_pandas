@@ -1,2 +1,2 @@
-# bypass_ga_limit_pandas
-Python code to query all the records
+# GA API in Pandas
+Python code to query a maximum of 7 dimensions and 10 measures and unlimited number of rows using Google Analytics API
